@@ -13,7 +13,7 @@ The University of Edinburgh, The University of Bath.
 
 ### Keywords
 
-Magnetic Resonance Fingerprinting (MRF), Physics, Recurrent training, Proximal gradient decent (PGD), Plug-and-Play (PnP), Inverse problem, Deep learning.
+Magnetic Resonance Fingerprinting (MRF), Physics, Recurrent training, Proximal gradient decent (PGD), Inverse problem, Deep learning.
 
 ### Abstract
 
