@@ -13,7 +13,7 @@ The University of Edinburgh, The University of Bath.
 
 ### Keywords
 
-Magnetic Resonance Fingerprinting (MRF), Physics, Recurrent training, Proximal gradient decent (PGD), Inverse problem, Deep learning.
+Magnetic Resonance Fingerprinting (MRF), Physics, Proximal gradient decent (PGD), Inverse problem, Deep learning.
 
 ### Abstract
 
@@ -29,7 +29,7 @@ Consistency of the predictions with respect to the physical forward model is piv
 
 If you use these models in your research, please cite:
 
-	@inproceedings{chen2020neural,
+	@inproceedings{chen2020compressive,
 		author = {Dongdong Chen and Mike E. Davies and Mohammad Golbabaee},
 		title = {Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations},
 		booktitle={International Conference on Medical image computing and computer-assisted intervention (MICCAI)},
