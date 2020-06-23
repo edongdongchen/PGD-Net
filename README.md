@@ -20,8 +20,9 @@ Magnetic Resonance Fingerprinting (MRF), Physics, Proximal gradient decent (PGD)
 Consistency of the predictions with respect to the physical forward model is pivotal for reliably solving inverse problems. This consistency is mostly un-controlled in the current end-to-end deep learning methodologies proposed for the Magnetic Resonance Fingerprinting (MRF) problem. To address this, we propose PGD-Net, a learned proximal gradient decent framework that directly incorporates the forward acquisition and Bloch dynamic models within a recurrent learning mechanism. The PGD-Net adopts a compact neural proximal model for de-aliasing and quantitative inference, that can be flexibly trained on scarce MRF training datasets. Our numerical experiments show that the PGD-Net can achieve a superior quantitative inference accuracy, much smaller storage requirement, and a comparable runtime to the recent deep learning MRF baselines, while being much faster than the dictionary matching schemes.
 
 ### Requirement
-0. PyTorch >=1.3
+0. PyTorch >=1.0
 0. CUDA >=8.5
+0. [torchkbnufft](https://github.com/mmuckley/torchkbnufft) (optional for nufft)
 
 ### Usage
 
