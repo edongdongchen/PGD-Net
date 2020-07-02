@@ -1,4 +1,4 @@
-# Proximal Gradient Descent Network (PGD-Net) 
+# MICCAI'20 - Proximal Gradient Descent Network (PGD-Net) 
 
 By [Dongdong Chen](http://dongdongchen.com), [Mike E. Davies](https://scholar.google.co.uk/citations?user=dwmfR3oAAAAJ&hl=en), [Mohammad Golbabaee](https://mgolbabaee.wordpress.com/).
 
