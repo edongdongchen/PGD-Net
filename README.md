@@ -1,4 +1,5 @@
-# MICCAI'20 - Proximal Gradient Descent Network (PGD-Net) 
+# MICCAI'20 - Proximal Gradient Descent Network (PGD-Net)
+This is the implementation of paper - [Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations](https://arxiv.org/abs/2006.15271). Code will be released soon.
 
 By [Dongdong Chen](http://dongdongchen.com), [Mike E. Davies](https://scholar.google.co.uk/citations?user=dwmfR3oAAAAJ&hl=en), [Mohammad Golbabaee](https://mgolbabaee.wordpress.com/).
 
