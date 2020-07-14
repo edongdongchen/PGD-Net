@@ -23,7 +23,6 @@ Consistency of the predictions with respect to the physical forward model is piv
 ### Requirement
 0. PyTorch >=1.0
 0. CUDA >=8.5
-0. [torchkbnufft](https://github.com/mmuckley/torchkbnufft) (optional for nufft)
 
 ### Usage
 
