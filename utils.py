@@ -8,7 +8,7 @@ from datetime import datetime
 import torch
 
 """
-Utils for compressive sensing MR fingerprinting (CS-MRF) in the paper
+Utils for compressive MR fingerprinting (CS-MRF) in the paper
 @inproceedings{chen2020compressive,
 	author = {Dongdong Chen and Mike E. Davies and Mohammad Golbabaee},
 	title = {Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations},
