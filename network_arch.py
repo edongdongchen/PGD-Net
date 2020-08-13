@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 
 """
-Neural Network Architecture of PGD-Net for compressive sensing MR fingerprinting (CS-MRF) in the paper
+Neural Network Architecture of PGD-Net for compressive MR fingerprinting (CS-MRF) in the paper
 @inproceedings{chen2020compressive,
 	author = {Dongdong Chen and Mike E. Davies and Mohammad Golbabaee},
 	title = {Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations},
