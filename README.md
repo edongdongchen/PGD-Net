@@ -1,5 +1,5 @@
-# MICCAI'20 - Proximal Gradient Descent Network (PGD-Net)
-This is the PyTorch implementation of below paper
+# Proximal Gradient Descent Network (PGD-Net)
+This is the PyTorch implementation of MICCAI'20 paper
 
 [Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations](https://arxiv.org/pdf/2006.15271.pdf).
 
