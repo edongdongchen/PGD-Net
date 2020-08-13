@@ -1,5 +1,6 @@
 # MICCAI'20 - Proximal Gradient Descent Network (PGD-Net)
-This is the PyTorch implementation of paper - [Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations](https://arxiv.org/pdf/2006.15271.pdf).
+This is the PyTorch implementation of below paper
+[Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations](https://arxiv.org/pdf/2006.15271.pdf).
 
 By [Dongdong Chen](http://dongdongchen.com), [Mike E. Davies](https://scholar.google.co.uk/citations?user=dwmfR3oAAAAJ&hl=en), [Mohammad Golbabaee](https://mgolbabaee.wordpress.com/).
 
