@@ -1,5 +1,5 @@
 # MICCAI'20 - Proximal Gradient Descent Network (PGD-Net)
-This is the implementation of paper - [Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations](https://arxiv.org/abs/2006.15271). Code will be released soon.
+This is the PyTorch implementation of paper - [Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations](https://arxiv.org/pdf/2006.15271.pdf).
 
 By [Dongdong Chen](http://dongdongchen.com), [Mike E. Davies](https://scholar.google.co.uk/citations?user=dwmfR3oAAAAJ&hl=en), [Mohammad Golbabaee](https://mgolbabaee.wordpress.com/).
 
@@ -25,6 +25,10 @@ Consistency of the predictions with respect to the physical forward model is piv
 0. CUDA >=8.5
 
 ### Usage
+0. check the demo_train() and demo_test() in [main.py](https://github.com/edongdongchen/PGD-Net/blob/master/main.py)
+0. the neura network architecture of PGD-Net ('proxnet') is defined in [network_arch.py](https://github.com/edongdongchen/PGD-Net/blob/master/network_arch.py)
+0. the forward and adjoint operators are implemented in [operators.py](https://github.com/edongdongchen/PGD-Net/blob/master/operators.py)
+0. note: the data was from a partner company and we are restricted from sharing. Users need to specify their own dataset. Our code can be flexibly transferred or directly used on other customized MRF dataset.
 
 ### Citation
 
