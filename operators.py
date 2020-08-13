@@ -6,7 +6,7 @@ import scipy.io as scio
 from utils import to_tensor, complex_matmul
 
 """
-PyTorch implementation of forward/adjoint operators for compressive sensing MR fingerprinting (CS-MRF) in the paper
+PyTorch implementation of forward/adjoint operators for compressive MR fingerprinting (CS-MRF) in the paper
 @inproceedings{chen2020compressive,
 	author = {Dongdong Chen and Mike E. Davies and Mohammad Golbabaee},
 	title = {Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations},
