@@ -25,7 +25,7 @@ by Dongdong Chen (01/March/2020)
 
 """
 # --------------------------------------------
-Training/Testing code (GPU) of PGD-Net for MR fingerprinting in the paper
+Training/Testing code (GPU) of PGD-Net for compressive MR fingerprinting in the paper
 @inproceedings{chen2020compressive,
 	author = {Dongdong Chen and Mike E. Davies and Mohammad Golbabaee},
 	title = {Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations},
@@ -219,7 +219,7 @@ if __name__=='__main__':
         args.checkpoint_interval = 100
 
         # learning rate for neural network
-        args.lr = 1e-3
+        args.lr = 1e-4
         # learning rate for alpha
         args.lr2 = .05
         # gamma, lambda, beta
